@@ -67,10 +67,10 @@ This tool is mainly aimed at Windows workstations. Therefore, it may not work fo
 
 Clone the repository with SSH or HTTPS
    ```sh
-   git clone git@github.com:YeriAddict/ArchivingTool.git
+   git clone git@github.com:denis-leang/ArchivingTool.git
    ```
    ```sh
-   git clone https://github.com/YeriAddict/ArchivingTool.git
+   git clone https://github.com/denis-leang/ArchivingTool.git
    ```
 
 ### Installation
